@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-drizzle-cache",
+  "version": "1.0.0",
+  "description": "Drizzle ORM query caching engine backed by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
